@@ -25,8 +25,11 @@ To import a Visual Studio Code (VS Code) profile from a GitHub Gist to your loca
 
 ## Profiles
 
-- **`KameHouse-Default`**: <pre>'https://gist.github.com/S4nfs/4b7af5ba7db15a7e3ffb6bb987b3ff7b'</pre>  <span><button onclick="navigator.clipboard.writeText('https://gist.github.com/S4nfs/4b7af5ba7db15a7e3ffb6bb987b3ff7b')">Copy URL</button></span>
-
+- **`KameHouse-Default`**:
+  
+    ```
+  https://gist.github.com/S4nfs/4b7af5ba7db15a7e3ffb6bb987b3ff7b
+    ```
   _Details: Inspired by Cursor and Project IDX, I use it personally_
 
 #### Post-Installation Steps
